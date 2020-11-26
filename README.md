@@ -2,4 +2,4 @@
 
 [Data Journal](https://public.tableau.com/profile/atri.basu#!/vizhome/InvestigatingtheimpactofAIonsearchamultinational/Augmentedsearchesbyquarter)
 
-All code and documentation for the data journal published on tableau related to augmented search experiment
+This Data Journal was created to illustrate the use of Data Journals created on tableau as a data investigative tool. To understand more about this project read the [paper](https://github.com/atbasu/data_jouranl_augmented_search/blob/main/Data_Jounral_Paper.pdf)
